@@ -9,7 +9,7 @@
 [![My Skills](https://skillicons.dev/icons?i=python,r)](https://skillicons.dev)<br><br>
 
 ## 🛠️ Ferramentas e Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=vscode,mysql,azure,git,github,flask,sklearn)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=ai,anaconda,vscode,mysql,azure,git,github,flask,sklearn)](https://skillicons.dev)<br><br>
 
 ## 📫 Contato
 
