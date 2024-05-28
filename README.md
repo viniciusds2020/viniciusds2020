@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://media.istockphoto.com/id/1459558322/pt/vetorial/clouddata.jpg?s=1024x1024&w=is&k=20&c=qbJ6LNi2p1Nf7bZ-Hl9XS9gvEjRZ7xvK2MaW2zSIlCE=" alt="Software Developer">
+</div>
+
 <h1 align="center">👋 Olá, eu sou Vinicius de Sousa</h1>
 
 <p align="center">
