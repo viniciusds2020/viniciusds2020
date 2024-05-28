@@ -14,7 +14,7 @@
 ## 📫 Contato
 
 [![Gmail Badge](https://img.shields.io/badge/-{SeuEmail}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{SeuEmail})](mailto:{SeuEmail})
-[![Linkedin: Vinicius](https://img.shields.io/badge/-ellendias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-deolindo-83631148/)](https://www.linkedin.com/in/vinicius-deolindo-83631148/)
+[![Linkedin: Vinicius](https://img.shields.io/badge/-vinicius-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-deolindo-83631148/)](https://www.linkedin.com/in/vinicius-deolindo-83631148/)
 
 
 ![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=vinicius2020&show_icons=true&theme=radical)
