@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou Vinicius de Sousa</h1>
+<h1 align="center">Vinicius de Sousa</h1>
 
 <p align="center">
   💻 Estatístico | 💻 Cientista de dados | 💻 Inteligência artificial generativa | 🌍 Brasil
