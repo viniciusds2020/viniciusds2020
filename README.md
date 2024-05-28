@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou Vinicius de Sousa</h1>
 
 <p align="center">
-  💻 Cientista de dados | 💻 Inteligencia artificial generativa | 🌍 Apaixonado por Tecnologia
+  💻 Estatístico | 💻 Cientista de dados | 💻 Inteligência artificial generativa | 🌍 Brasil
 </p><br><br>
 
 
