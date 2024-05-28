@@ -18,6 +18,6 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/SeuUsuario?style=social)]({Link}) <br><br>
 
 
-![DiasEllen26 GitHub stats](https://github-readme-stats.vercel.app/api?username=DiasEllen26&show_icons=true&theme=radical)
+![vinicius2020 GitHub stats](https://github-readme-stats.vercel.app/api?username=vinicius2020&show_icons=true&theme=radical)
 
 Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊 <br><br>
