@@ -13,7 +13,7 @@
 
 ## 📫 Contato
 
-[![Gmail Badge](https://img.shields.io/badge/-{SeuEmail}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{SeuEmail})](mailto:{SeuEmail})
+[![Gmail Badge](https://img.shields.io/badge/-viniciusds1020@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viniciusds1020@gmail.com)](mailto:viniciusds1020@gmail.com)
 [![Linkedin: Vinicius](https://img.shields.io/badge/-vinicius-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-deolindo-83631148/)](https://www.linkedin.com/in/vinicius-deolindo-83631148/)
 
 
