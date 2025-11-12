@@ -1,7 +1,7 @@
 <h1 align="center">Vinicius de Sousa</h1>
 
 <p align="center">
-  💻 Estatístico | 💻 Cientista de dados | 💻 Inteligência artificial generativa | 🌍 Brasil
+  💻 Estatístico | 💻 Cientista de dados | 💻 Engenharia de I.A. | 🌍 Brasil
 </p><br><br>
 
 
