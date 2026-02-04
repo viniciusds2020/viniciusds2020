@@ -229,10 +229,6 @@ timeline
 - 📊 Consultoria especializada em ML/AI
 - 🚀 Liderança técnica de squads de dados
 
-💰 **Faixa salarial:** R$ 16k - R$ 25k  
-📍 **Modalidade:** Remoto, Híbrido ou Presencial (Niterói/RJ)  
-⏰ **Disponibilidade:** Imediata
-
 ---
 
 ## 📫 Vamos Conectar!
