@@ -4,7 +4,7 @@
 
 ### 🤖 Cientista de Dados Sênior | Especialista em GenAI & LLMs
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9FFF&center=true&vCenter=true&random=false&width=800&lines=Transformando+dados+em+valor+com+IA+Generativa;7%2B+anos+construindo+solu%C3%A7%C3%B5es+de+ML+e+GenAI;Especialista+em+Azure+%7C+Databricks+%7C+LLMs+%7C+MLOps)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9FFF&center=true&vCenter=true&random=false&width=800&lines=Transformando+dados+em+valor+com+IA+Generativa;9%2B+anos+construindo+solu%C3%A7%C3%B5es+de+ML+e+GenAI;Especialista+em+Azure+%7C+Databricks+%7C+LLMs+%7C+MLOps)](https://git.io/typing-svg)
 
 <br>
 
