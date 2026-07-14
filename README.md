@@ -1,261 +1,75 @@
 <div align="center">
 
-# 👋 Olá, sou Vinicius de Sousa
+# Vinicius de Sousa
 
-### 🤖 Cientista de Dados Sênior | Especialista em GenAI & LLMs
+### Senior AI Engineer · Data Scientist · Applied ML & GenAI
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9FFF&center=true&vCenter=true&random=false&width=800&lines=Transformando+dados+em+valor+com+IA+Generativa;9%2B+anos+construindo+solu%C3%A7%C3%B5es+de+ML+e+GenAI;Especialista+em+Azure+%7C+Databricks+%7C+LLMs+%7C+MLOps)](https://git.io/typing-svg)
+Construo sistemas de Inteligência Artificial do protótipo à produção, combinando engenharia de software, ciência de dados e arquitetura de soluções escaláveis.
 
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-deolindo-83631148/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viniciusds1020@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/viniciusds2020)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-deolindo-83631148/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:viniciusds1020@gmail.com)
+[![Profile views](https://komarev.com/ghpvc/?username=viniciusds2020&style=flat-square&color=0A66C2&label=Profile+views)](https://github.com/viniciusds2020)
 
 </div>
 
----
+## Sobre mim
 
-## 🎯 Sobre Mim
+Engenheiro de IA e Cientista de Dados Sênior, formado em Estatística pela UERJ, com mais de 10 anos de experiência em projetos de dados, machine learning e inteligência artificial. Atuo em ambientes complexos e de alta escala nos setores de saúde, indústria, varejo, energia e serviços.
 
-```python
-class ViniciusDeSousa:
-    def __init__(self):
-        self.role = "Senior Data Scientist"
-        self.specialization = ["GenAI", "LLMs", "MLOps", "Computer Vision"]
-        self.location = "Niterói, RJ - Brasil"
-        self.experience_years = 7
-        
-    def current_focus(self):
-        return {
-            "🔥 Trabalhando com": [
-                "Fine-tuning de LLMs (LoRA, QLoRA)",
-                "Arquiteturas Multiagentes com LangChain",
-                "RAG (Retrieval-Augmented Generation)",
-                "Sistemas de Semantic Search",
-                "MLOps com Azure/Databricks"
-            ],
-            "🎓 Aprendendo": [
-                "Advanced Prompt Engineering",
-                "Multi-modal AI (GPT-4V, Gemini Vision)",
-                "Vector Databases (Pinecone, Weaviate)",
-                "LLM Evaluation & Monitoring"
-            ],
-            "💼 Aberto para": [
-                "Projetos desafiadores em GenAI",
-                "Consultorias especializadas",
-                "Colaborações open-source"
-            ]
-        }
-    
-    def impact_metrics(self):
-        return {
-            "cost_reduction": "R$ 2M+ /ano",
-            "time_saved": "70% em processamento",
-            "automation": "85% de tarefas manuais",
-            "accuracy": "92% em modelos críticos"
-        }
-```
+Minha especialidade é transformar problemas de negócio em sistemas de IA confiáveis: da ingestão e governança de dados ao desenvolvimento, avaliação, implantação e monitoramento de modelos. Atualmente, meu foco está em IA generativa, RAG, agentes, processamento inteligente de documentos, visão computacional e plataformas de ML.
 
----
+## Áreas de atuação
 
-## 🌟 Destaques Profissionais
+- **AI Engineering:** RAG, agentes, LLMs/SLMs, embeddings, avaliação e guardrails
+- **Machine Learning:** classificação, regressão, forecasting, ranking e otimização
+- **Document AI & Computer Vision:** OCR, extração estruturada, CLIP e modelos multimodais
+- **Data & MLOps:** pipelines, experiment tracking, versionamento, APIs e observabilidade
+- **Arquitetura:** desenho de soluções em Azure, Databricks e Google Cloud
 
-### 💡 **Experiência Recente que Faz Diferença:**
+## Projetos selecionados
 
-🏥 **Sistema de IA Generativa para Healthcare (Amil - 2025)**
-- Arquitetura multiagente com **LLMs multimodais** (Gemini, GPT-4) + **SLMs** (Llama 3, Gemma)
-- **Fine-tuning com LoRA** para classificação e extração de documentos TISS
-- Integração **Azure Document Intelligence** + OCR híbrido (PaddleOCR)
-- **Resultado:** ⚡ 70% redução tempo | 💰 R$ 2M economia/ano | 🎯 92% accuracy
+| Projeto | O que demonstra | Stack principal |
+|---|---|---|
+| [Agent Factory](https://github.com/viniciusds2020/agentfactoryupoa) | Plataforma RAG híbrida para documentos corporativos em PT-BR, com busca vetorial + BM25, reranking, ingestão multimodal, avaliações e guardrails | FastAPI, React, FAISS, BM25, Groq, SQLite |
+| [Busca Semântica para E-commerce](https://github.com/viniciusds2020/sistema_de_busca_semantica) | Motor de busca híbrido com embeddings, BM25, Learning to Rank e métricas de relevância | Elasticsearch, Sentence Transformers, LightGBM, Streamlit |
+| [Sistema de Forecasting](https://github.com/viniciusds2020/sistema_multiplos_forecast) | Comparação e operação de múltiplos modelos para previsão de séries temporais | Python, ML, Forecasting |
+| [SmartEDA](https://github.com/viniciusds2020/sistema_eda) | Biblioteca para análise exploratória automatizada, inferência de tipos e relatórios | Python, pandas, SciPy, scikit-learn |
+| [Desafio de Ciência de Dados](https://github.com/viniciusds2020/desafio_aquarela_ia) | Pipeline reprodutível de dados, feature engineering, validação temporal e tracking de experimentos | DuckDB, LightGBM, Random Forest, MLflow |
+| [Busca com RAG local](https://github.com/viniciusds2020/rag-huggingface-gguf) | Experimentação com modelos GGUF e recuperação aumentada por geração | Hugging Face, GGUF, RAG |
 
-📊 **Plataforma de CRM Analytics (DataX/CCR - 2024-2025)**
-- **Chatbot inteligente** com LLaMA 2 + fine-tuning para análises self-service
-- Modelos de **churn prediction** em 5M+ clientes (83% accuracy)
-- Pipelines escaláveis em **Azure Databricks** + MLflow
-- **Resultado:** ⏱️ 40% menos tempo em consultas | 💎 ROI 4.5x em retenção
+## Tecnologias
 
-🏭 **Otimização Logística com AutoML (Usiminas - 2023-2024)**
-- **AutoML para roteirização ferroviária** e alocação de carga
-- Deploy em produção com **FastAPI** + monitoramento MLflow
-- **Resultado:** 🚂 18% melhoria na malha | 💰 R$ 8M economia/ano
+**Linguagens:** Python · SQL · R · Bash  
+**IA e ML:** PyTorch · TensorFlow · scikit-learn · LightGBM · XGBoost · Hugging Face  
+**GenAI:** LangChain · LlamaIndex · RAG · agentes · fine-tuning · prompt engineering  
+**Dados e MLOps:** Databricks · Spark · MLflow · DuckDB · PostgreSQL · Docker · FastAPI  
+**Cloud:** Microsoft Azure · Google Cloud Platform  
+**Visualização:** Power BI · Plotly · Streamlit
 
----
+## Princípios de engenharia
 
-## 🛠️ Stack Tecnológico
+- Começar pelo problema e pelas métricas de sucesso
+- Criar pipelines reprodutíveis, testáveis e observáveis
+- Avaliar qualidade, latência, custo, segurança e explicabilidade
+- Projetar para evolução: componentes desacoplados e arquitetura reutilizável
+- Manter o humano no circuito quando o risco exige supervisão
 
-### 🤖 **IA Generativa & LLMs** (Especialização Principal)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+## Em construção
 
-```
-🎯 LLMs: OpenAI GPT-4, Google Gemini, Anthropic Claude, Meta Llama 3, Gemma
-🔧 Fine-tuning: LoRA, QLoRA, PEFT, Transformers
-🧠 Frameworks: LangChain, LlamaIndex, Haystack
-🔍 Técnicas: Prompt Engineering, RAG, Agentic AI, Few-shot Learning
-📊 Embeddings: OpenAI, Sentence Transformers, CLIP (multimodal)
-```
+- Arquiteturas de agentes corporativos com governança e observabilidade
+- Pipelines multimodais para classificação e extração de documentos
+- Sistemas RAG híbridos orientados a domínios de negócio
+- Soluções de forecasting e detecção de anomalias para dados industriais
 
-### ☁️ **Cloud & MLOps**
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+## Contato
 
-```
-☁️ Azure: Databricks, ML Studio, Synapse, Data Factory, Document Intelligence
-📊 Databricks: Workflows, MLflow, Delta Lake, Feature Store
-🔄 MLOps: Model versioning, A/B testing, monitoring, governance
-🐍 Orchestration: Airflow, Azure Data Factory
-```
+Estou aberto a conversas sobre arquitetura e engenharia de IA, liderança técnica, projetos de GenAI e colaboração em soluções aplicadas.
 
-### 🤖 **Machine Learning & Deep Learning**
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-```
-📚 Frameworks: scikit-learn, XGBoost, LightGBM, CatBoost
-🧠 Deep Learning: PyTorch, TensorFlow, Keras
-👁️ Computer Vision: OpenCV, CLIP, OCR (Tesseract, PaddleOCR, Azure DI)
-📝 NLP: spaCy, NLTK, Transformers
-```
-
-### 📊 **Big Data & Visualização**
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-
-```
-🚀 Big Data: Apache Spark, PySpark, Databricks
-💾 Databases: PostgreSQL, SQL Server, MySQL, Azure SQL
-📊 BI: Power BI, Tableau, Plotly/Dash, Streamlit
-```
-
-### 💻 **Linguagens**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-
----
-
-## 🚀 Projetos em Destaque
-
-### 🔥 [RAG System for Document Q&A](link-quando-disponivel)
-Sistema RAG completo com LangChain para Q&A em documentos técnicos
-- **Stack:** LangChain, OpenAI GPT-4, Pinecone, FAISS
-- **Features:** Chunk optimization, hybrid search, context window management
-- **Métricas:** Precisão 87% em respostas técnicas complexas
-
-### 🔍 [E-commerce Semantic Search Engine](link-quando-disponivel)
-Motor de busca semântica com embeddings e learning-to-rank
-- **Stack:** Elasticsearch, Sentence Transformers, LambdaMART
-- **Features:** Query expansion, personalization, A/B testing framework
-- **Métricas:** 23% melhoria em NDCG@10, 15% aumento em CTR
-
-### 🤖 [Multi-Agent AI System](link-quando-disponivel)
-Arquitetura de agentes especializados com orquestração inteligente
-- **Stack:** LangGraph, GPT-4, Llama 3, CrewAI
-- **Features:** Task delegation, error handling, human-in-the-loop
-- **Use cases:** Data analysis automation, report generation
-
-### 🎯 [LLM Fine-tuning Pipeline](link-quando-disponivel)
-Pipeline completo para fine-tuning de LLMs com LoRA/QLoRA
-- **Stack:** PyTorch, Transformers, PEFT, Weights & Biases
-- **Features:** Hyperparameter search, evaluation metrics, deployment
-- **Models:** Llama 3-8B, Gemma-7B para tarefas específicas
-
-> 💡 **Nota:** Projetos em desenvolvimento ativo. Links serão adicionados conforme disponibilização pública.
-
----
-
-## 📈 Histórico Profissional
-
-```mermaid
-timeline
-    title Jornada Profissional
-    2017 : Deloitte - Consultor em Ciência de Dados
-         : Vale - Manutenção Preditiva & SST
-    2018 : Casa & Video - Especialista Sênior
-         : Supply Chain & Previsão de Demanda
-    2019 : Indra/Oi - Consultor Sênior
-         : Churn Analysis & CRM
-    2020 : B2W Digital - Cientista de Dados Sênior
-         : Fraud Detection
-    2020 : BrMalls - Especialista
-         : Customer Analytics & BI
-    2022 : Enel - Especialista em Arquitetura de Dados
-         : Energia & Distribuição
-    2023 : Spead/Usiminas - Cientista Sênior
-         : Otimização Logística
-    2024 : DataX/CCR - Cientista Sênior
-         : CRM Analytics & LLMs
-    2025 : Amil - Cientista Sênior (GenAI)
-         : IA Generativa & Agentes
-    2026 : Focando em projetos GenAI
-         : Open Source & Consultorias
-```
-
----
-
-## 🎓 Formação & Certificações
-
-🎓 **Bacharelado em Estatística** - UERJ (2014)
-
-📜 **Certificações em Progresso:**
-- Azure AI Engineer Associate (AI-102)
-- Google Cloud Professional ML Engineer
-- Advanced LLM Applications (DeepLearning.AI)
-
-📚 **Cursos Relevantes:**
-- Machine Learning Specialization (Stanford/Coursera)
-- Deep Learning Specialization (deeplearning.ai)
-- Big Data Fundamentos (Data Science Academy)
-- MLOps Specialization
-
----
-
-## 💼 Aberto Para Oportunidades
-
-🔍 **Buscando projetos em:**
-- 🤖 Desenvolvimento de soluções GenAI/LLMs
-- 🏗️ Arquitetura de sistemas de ML em produção
-- 📊 Consultoria especializada em ML/AI
-- 🚀 Liderança técnica de squads de dados
-
----
-
-## 📫 Vamos Conectar!
-
-Estou sempre aberto a discutir:
-- 💡 Projetos inovadores em IA e Machine Learning
-- 🤝 Colaborações em open-source
-- 🎯 Oportunidades de consultoria
-- 📚 Troca de conhecimentos sobre GenAI/LLMs
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vamos_Conversar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-deolindo-83631148/)
-[![Email](https://img.shields.io/badge/Email-viniciusds1020@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viniciusds1020@gmail.com)
-
-**⭐ Se você achou meus projetos interessantes, deixe uma estrela!**
-
-![Profile Views](https://komarev.com/ghpvc/?username=viniciusds2020&color=2e9fff&style=flat-square&label=Visualizações+do+Perfil)
-
-</div>
+- [LinkedIn](https://www.linkedin.com/in/vinicius-deolindo-83631148/)
+- [E-mail](mailto:viniciusds1020@gmail.com)
 
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" alt="animated" />
-  
-  ### 🚀 "Transformando dados em valor através de IA" 🚀
-  
-  <sub>Última atualização: Janeiro 2026</sub>
+<sub>Rio de Janeiro, Brasil · Português nativo · Inglês profissional</sub>
 </div>
