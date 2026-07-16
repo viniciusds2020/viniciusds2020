@@ -32,6 +32,7 @@ Transformo problemas de negócio em sistemas confiáveis: da qualidade e governa
 | Projeto | Problema resolvido | Engenharia aplicada |
 |---|---|---|
 | [AI Automation Hub](https://github.com/viniciusds2020/ai-automation-hub) | Painel visual para organizar Skills, servidores MCP e workflows de automação de IA | FastAPI, SQLite, HTML/CSS/JS, Docker, execução segura e CI |
+| [Multi-Agent Orchestration Lab](https://github.com/viniciusds2020/multi-agent-orchestration-lab) | Comparação do mesmo processo multiagente em dois paradigmas de orquestração | CrewAI, LangGraph, Groq/Llama, FastAPI, SQLite e métricas |
 | [SmartEDA](https://github.com/viniciusds2020/sistema_eda) | Profiling estatístico, qualidade de dados e detecção de drift em datasets de diferentes escalas | Python, pandas, Polars, DuckDB, SciPy e relatórios HTML |
 | [ML Classification Factory](https://github.com/viniciusds2020/ml_pycaret_classificacao) | Fábrica reprodutível de modelos com validação, rastreabilidade e promoção controlada | PyCaret, MLflow, FastAPI, quality gates, Docker e CI |
 | [Token-Efficient NLP Router](https://github.com/viniciusds2020/nlp_classificacao_texto_spacy) | Classificação de textos local-first com fallback seletivo para reduzir custo e tokens | spaCy, TF-IDF, Logistic Regression, Groq/Llama e FastAPI |
@@ -59,7 +60,7 @@ Os projetos formam uma linha de produção: dados são diagnosticados, modelos s
 
 **Linguagens:** Python · SQL · R · JavaScript · Bash  
 **IA e ML:** PyTorch · TensorFlow · scikit-learn · LightGBM · XGBoost · PyCaret · Hugging Face  
-**GenAI:** Groq · Llama · LangChain · LlamaIndex · RAG · agentes · Skills · MCPs  
+**GenAI:** Groq · Llama · CrewAI · LangGraph · LangChain · RAG · agentes · Skills · MCPs  
 **Dados e MLOps:** pandas · Polars · DuckDB · Spark · MLflow · PostgreSQL · SQLite  
 **Engenharia:** FastAPI · Docker · GitHub Actions · APIs REST · testes automatizados  
 **Cloud e visualização:** Azure · Google Cloud · Databricks · Power BI · Plotly · Streamlit
