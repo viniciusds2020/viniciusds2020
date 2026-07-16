@@ -4,7 +4,7 @@
 
 ### Senior AI Engineer · Data Scientist · Applied ML & GenAI
 
-Construo sistemas de Inteligência Artificial do protótipo à produção, combinando engenharia de software, ciência de dados e arquitetura de soluções escaláveis.
+Construo sistemas de Inteligência Artificial do protótipo à produção, combinando engenharia de software, estatística, machine learning e automação de processos.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-deolindo-83631148/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:viniciusds1020@gmail.com)
@@ -14,56 +14,77 @@ Construo sistemas de Inteligência Artificial do protótipo à produção, combi
 
 ## Sobre mim
 
-Engenheiro de IA e Cientista de Dados Sênior, formado em Estatística pela UERJ, com mais de 10 anos de experiência em projetos de dados, machine learning e inteligência artificial. Atuo em ambientes complexos e de alta escala nos setores de saúde, indústria, varejo, energia e serviços.
+Engenheiro de IA e Cientista de Dados Sênior, formado em Estatística pela UERJ, com mais de 10 anos de experiência em projetos de dados, machine learning e inteligência artificial nos setores de saúde, indústria, varejo, energia e serviços.
 
-Minha especialidade é transformar problemas de negócio em sistemas de IA confiáveis: da ingestão e governança de dados ao desenvolvimento, avaliação, implantação e monitoramento de modelos. Atualmente, meu foco está em IA generativa, RAG, agentes, processamento inteligente de documentos, visão computacional e plataformas de ML.
+Transformo problemas de negócio em sistemas confiáveis: da qualidade e governança dos dados ao desenvolvimento, avaliação, implantação e monitoramento de modelos. Meu trabalho recente conecta IA generativa, RAG, agentes, Skills, MCPs, NLP eficiente, automação e plataformas de ML.
 
-## Áreas de atuação
+## O que construo
 
-- **AI Engineering:** RAG, agentes, LLMs/SLMs, embeddings, avaliação e guardrails
-- **Machine Learning:** classificação, regressão, forecasting, ranking e otimização
-- **Document AI & Computer Vision:** OCR, extração estruturada, CLIP e modelos multimodais
-- **Data & MLOps:** pipelines, experiment tracking, versionamento, APIs e observabilidade
-- **Arquitetura:** desenho de soluções em Azure, Databricks e Google Cloud
+- **AI Engineering:** RAG, agentes, Skills, MCPs, LLMs/SLMs, avaliação e guardrails
+- **Machine Learning:** classificação, forecasting, ranking, otimização e validação estatística
+- **NLP eficiente:** classificação local-first, roteamento seletivo e redução de tokens
+- **Data & MLOps:** profiling, experiment tracking, quality gates, APIs e monitoramento de drift
+- **Document AI:** OCR, extração estruturada, recuperação híbrida e processamento multimodal
+- **Arquitetura:** soluções desacopladas e observáveis em Azure, Databricks e Google Cloud
 
-## Projetos selecionados
+## Projetos em destaque
 
-| Projeto | O que demonstra | Stack principal |
+| Projeto | Problema resolvido | Engenharia aplicada |
 |---|---|---|
-| [Agent Factory](https://github.com/viniciusds2020/agentfactoryupoa) | Plataforma RAG híbrida para documentos corporativos em PT-BR, com busca vetorial + BM25, reranking, ingestão multimodal, avaliações e guardrails | FastAPI, React, FAISS, BM25, Groq, SQLite |
-| [Busca Semântica para E-commerce](https://github.com/viniciusds2020/sistema_de_busca_semantica) | Motor de busca híbrido com embeddings, BM25, Learning to Rank e métricas de relevância | Elasticsearch, Sentence Transformers, LightGBM, Streamlit |
-| [Sistema de Forecasting](https://github.com/viniciusds2020/sistema_multiplos_forecast) | Comparação e operação de múltiplos modelos para previsão de séries temporais | Python, ML, Forecasting |
-| [SmartEDA](https://github.com/viniciusds2020/sistema_eda) | Biblioteca para análise exploratória automatizada, inferência de tipos e relatórios | Python, pandas, SciPy, scikit-learn |
-| [Desafio de Ciência de Dados](https://github.com/viniciusds2020/desafio_aquarela_ia) | Pipeline reprodutível de dados, feature engineering, validação temporal e tracking de experimentos | DuckDB, LightGBM, Random Forest, MLflow |
-| [Busca com RAG local](https://github.com/viniciusds2020/rag-huggingface-gguf) | Experimentação com modelos GGUF e recuperação aumentada por geração | Hugging Face, GGUF, RAG |
+| [AI Automation Hub](https://github.com/viniciusds2020/ai-automation-hub) | Painel visual para organizar Skills, servidores MCP e workflows de automação de IA | FastAPI, SQLite, HTML/CSS/JS, Docker, execução segura e CI |
+| [SmartEDA](https://github.com/viniciusds2020/sistema_eda) | Profiling estatístico, qualidade de dados e detecção de drift em datasets de diferentes escalas | Python, pandas, Polars, DuckDB, SciPy e relatórios HTML |
+| [ML Classification Factory](https://github.com/viniciusds2020/ml_pycaret_classificacao) | Fábrica reprodutível de modelos com validação, rastreabilidade e promoção controlada | PyCaret, MLflow, FastAPI, quality gates, Docker e CI |
+| [Token-Efficient NLP Router](https://github.com/viniciusds2020/nlp_classificacao_texto_spacy) | Classificação de textos local-first com fallback seletivo para reduzir custo e tokens | spaCy, TF-IDF, Logistic Regression, Groq/Llama e FastAPI |
+| [Agent Factory](https://github.com/viniciusds2020/agentfactoryupoa) | Plataforma RAG híbrida para documentos corporativos em português | FastAPI, React, FAISS, BM25, Groq, avaliação e guardrails |
+| [Busca Semântica para E-commerce](https://github.com/viniciusds2020/sistema_de_busca_semantica) | Recuperação e ranking de produtos combinando sinais lexicais e semânticos | Elasticsearch, embeddings, LightGBM e Learning to Rank |
+| [Forecasting de múltiplos produtos](https://github.com/viniciusds2020/sistema_multiplos_forecast) | Previsão de demanda para múltiplos SKUs com agrupamento e rateio por produto | Python, séries temporais, clustering, FastAPI e React |
+| [Desafio Aquarela IA](https://github.com/viniciusds2020/desafio_aquarela_ia) | Predição de consumo energético com validação temporal e experimentos rastreáveis | DuckDB, LightGBM, Random Forest e MLflow |
+
+## Ecossistema de soluções
+
+```mermaid
+flowchart LR
+    D["Dados"] --> E["SmartEDA"]
+    E --> M["ML Factory"]
+    M --> A["APIs e monitoramento"]
+    N["Texto"] --> R["NLP Router"]
+    R --> A
+    S["Skills e MCPs"] --> H["Automation Hub"]
+    H --> A
+```
+
+Os projetos formam uma linha de produção: dados são diagnosticados, modelos são treinados com governança, serviços são expostos por APIs e automações coordenam Skills, MCPs e componentes de IA.
 
 ## Tecnologias
 
-**Linguagens:** Python · SQL · R · Bash  
-**IA e ML:** PyTorch · TensorFlow · scikit-learn · LightGBM · XGBoost · Hugging Face  
-**GenAI:** LangChain · LlamaIndex · RAG · agentes · fine-tuning · prompt engineering  
-**Dados e MLOps:** Databricks · Spark · MLflow · DuckDB · PostgreSQL · Docker · FastAPI  
-**Cloud:** Microsoft Azure · Google Cloud Platform  
-**Visualização:** Power BI · Plotly · Streamlit
+**Linguagens:** Python · SQL · R · JavaScript · Bash  
+**IA e ML:** PyTorch · TensorFlow · scikit-learn · LightGBM · XGBoost · PyCaret · Hugging Face  
+**GenAI:** Groq · Llama · LangChain · LlamaIndex · RAG · agentes · Skills · MCPs  
+**Dados e MLOps:** pandas · Polars · DuckDB · Spark · MLflow · PostgreSQL · SQLite  
+**Engenharia:** FastAPI · Docker · GitHub Actions · APIs REST · testes automatizados  
+**Cloud e visualização:** Azure · Google Cloud · Databricks · Power BI · Plotly · Streamlit
 
 ## Princípios de engenharia
 
-- Começar pelo problema e pelas métricas de sucesso
+- Começar pelo problema, risco e métricas de sucesso
 - Criar pipelines reprodutíveis, testáveis e observáveis
 - Avaliar qualidade, latência, custo, segurança e explicabilidade
-- Projetar para evolução: componentes desacoplados e arquitetura reutilizável
-- Manter o humano no circuito quando o risco exige supervisão
+- Preferir componentes desacoplados e reutilizáveis
+- Reduzir uso de LLMs quando modelos locais resolvem o problema
+- Manter aprovação humana em ações sensíveis
 
-## Em construção
+## Direção atual
 
-- Arquiteturas de agentes corporativos com governança e observabilidade
-- Pipelines multimodais para classificação e extração de documentos
-- Sistemas RAG híbridos orientados a domínios de negócio
-- Soluções de forecasting e detecção de anomalias para dados industriais
+- automação de processos corporativos com Skills e MCPs;
+- agentes com governança, rastreabilidade e observabilidade;
+- monitoramento longitudinal de dados e modelos;
+- NLP local-first orientado a custo;
+- sistemas RAG híbridos para domínios especializados;
+- plataformas reutilizáveis de machine learning.
 
 ## Contato
 
-Estou aberto a conversas sobre arquitetura e engenharia de IA, liderança técnica, projetos de GenAI e colaboração em soluções aplicadas.
+Estou aberto a conversas sobre engenharia e arquitetura de IA, liderança técnica, GenAI, MLOps e automação inteligente.
 
 - [LinkedIn](https://www.linkedin.com/in/vinicius-deolindo-83631148/)
 - [E-mail](mailto:viniciusds1020@gmail.com)
