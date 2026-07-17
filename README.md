@@ -33,6 +33,7 @@ Transformo problemas de negócio em sistemas confiáveis: da qualidade e governa
 |---|---|---|
 | [AI Automation Hub](https://github.com/viniciusds2020/ai-automation-hub) | Painel visual para organizar Skills, servidores MCP e workflows de automação de IA | FastAPI, SQLite, HTML/CSS/JS, Docker, execução segura e CI |
 | [Multi-Agent Orchestration Lab](https://github.com/viniciusds2020/multi-agent-orchestration-lab) | Comparação do mesmo processo multiagente em dois paradigmas de orquestração | CrewAI, LangGraph, Groq/Llama, FastAPI, SQLite e métricas |
+| [LangGraph Tool Agent](https://github.com/viniciusds2020/langgraph-tool-agent) | Agente stateful que resolve problemas chamando ferramentas seguras e solicitando aprovação humana | LangGraph, Groq/Llama, tool calling, checkpoints, FastAPI e SQLite |
 | [SmartEDA](https://github.com/viniciusds2020/sistema_eda) | Profiling estatístico, qualidade de dados e detecção de drift em datasets de diferentes escalas | Python, pandas, Polars, DuckDB, SciPy e relatórios HTML |
 | [ML Classification Factory](https://github.com/viniciusds2020/ml_pycaret_classificacao) | Fábrica reprodutível de modelos com validação, rastreabilidade e promoção controlada | PyCaret, MLflow, FastAPI, quality gates, Docker e CI |
 | [Token-Efficient NLP Router](https://github.com/viniciusds2020/nlp_classificacao_texto_spacy) | Classificação de textos local-first com fallback seletivo para reduzir custo e tokens | spaCy, TF-IDF, Logistic Regression, Groq/Llama e FastAPI |
