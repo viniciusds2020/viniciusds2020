@@ -31,6 +31,7 @@ Transformo problemas de negócio em sistemas confiáveis: da qualidade e governa
 
 | Projeto | Problema resolvido | Engenharia aplicada |
 |---|---|---|
+| [AI Operations Case Manager](https://github.com/viniciusds2020/ai-operations-case-manager) | Automatiza triagem, planejamento, aprovação e execução auditável de solicitações corporativas | FastAPI, regras explicáveis, human-in-the-loop, Groq/Llama, Skills, SQLite, Docker e CI |
 | [AI Automation Hub](https://github.com/viniciusds2020/ai-automation-hub) | Painel visual para organizar Skills, servidores MCP e workflows de automação de IA | FastAPI, SQLite, HTML/CSS/JS, Docker, execução segura e CI |
 | [Multi-Agent Orchestration Lab](https://github.com/viniciusds2020/multi-agent-orchestration-lab) | Comparação do mesmo processo multiagente em dois paradigmas de orquestração | CrewAI, LangGraph, Groq/Llama, FastAPI, SQLite e métricas |
 | [LangGraph Tool Agent](https://github.com/viniciusds2020/langgraph-tool-agent) | Agente stateful que resolve problemas chamando ferramentas seguras e solicitando aprovação humana | LangGraph, Groq/Llama, tool calling, checkpoints, FastAPI e SQLite |
