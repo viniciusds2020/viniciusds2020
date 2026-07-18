@@ -31,6 +31,7 @@ Transformo problemas de negócio em sistemas confiáveis: da qualidade e governa
 
 | Projeto | Problema resolvido | Engenharia aplicada |
 |---|---|---|
+| [Enterprise Agent Evaluation Platform](https://github.com/viniciusds2020/enterprise-agent-evaluation-platform) | Compara agentes com qualidade, segurança, custo e significância estatística antes da promoção | Golden datasets, McNemar, bootstrap, Holm, quality gates, FastAPI, Docker e CI |
 | [Intelligent Document Decision Engine](https://github.com/viniciusds2020/intelligent-document-decision-engine) | Classifica páginas, extrai campos por schema e produz decisões documentais explicáveis | Document AI, PyMuPDF, schemas YAML, regras, human-in-the-loop, FastAPI, Docker e CI |
 | [AI Operations Case Manager](https://github.com/viniciusds2020/ai-operations-case-manager) | Automatiza triagem, planejamento, aprovação e execução auditável de solicitações corporativas | FastAPI, regras explicáveis, human-in-the-loop, Groq/Llama, Skills, SQLite, Docker e CI |
 | [AI Automation Hub](https://github.com/viniciusds2020/ai-automation-hub) | Painel visual para organizar Skills, servidores MCP e workflows de automação de IA | FastAPI, SQLite, HTML/CSS/JS, Docker, execução segura e CI |
