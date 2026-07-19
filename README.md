@@ -31,6 +31,7 @@ Transformo problemas de negócio em sistemas confiáveis: da qualidade e governa
 
 | Projeto | Problema resolvido | Engenharia aplicada |
 |---|---|---|
+| [Multi-Agent AI Incident Response](https://github.com/viniciusds2020/multi-agent-ai-incident-response) | Investiga incidentes de dados, ML, RAG e plataforma com especialistas coordenados | CrewAI, Groq/Llama, tools/MCP-ready, FastAPI, SQLite, Docker e CI |
 | [AI Model Governance Control Center](https://github.com/viniciusds2020/ai-model-governance-control-center) | Governa modelos, agentes e RAGs com riscos, evidências, aprovações e incidentes | Model/agent cards, policy-as-code, quality gates, RBAC-ready, FastAPI, Docker e CI |
 | [Predictive Maintenance Copilot](https://github.com/viniciusds2020/predictive-maintenance-copilot) | Detecta deformações, compara ativos e recomenda inspeções com evidências | NumPy, mediana/MAD, similaridade vetorial, sensores, FastAPI, Docker e CI |
 | [Enterprise Agent Evaluation Platform](https://github.com/viniciusds2020/enterprise-agent-evaluation-platform) | Compara agentes com qualidade, segurança, custo e significância estatística antes da promoção | Golden datasets, McNemar, bootstrap, Holm, quality gates, FastAPI, Docker e CI |
