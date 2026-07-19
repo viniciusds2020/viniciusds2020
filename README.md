@@ -100,5 +100,5 @@ Estou aberto a conversas sobre engenharia e arquitetura de IA, liderança técni
 ---
 
 <div align="center">
-<sub>Rio de Janeiro, Brasil · Português nativo · Inglês profissional</sub>
+<sub>Rio de Janeiro, Brasil · Português nativo · Inglês profissional · Alemão iniciante</sub>
 </div>
